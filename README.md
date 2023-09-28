@@ -1,3 +1,3 @@
-# Test
+# Deployment on Netlify
 
-[ministore2.netlify.app]
+Open link to test [https://ministore2.netlify.app]
