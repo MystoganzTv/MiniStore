@@ -22,7 +22,7 @@ export const Header = () => {
       </nav>
 
       <Link className="font-medium min-w-20 mx-2" to="/cart">
-        <span>Cart: ${cartList.length}</span>
+        <span>Cart: {cartList.length}</span>
       </Link>
     </header>
   );
